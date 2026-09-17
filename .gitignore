@@ -6,3 +6,5 @@ dist/
 
 # Vercel files
 .vercel/
+
+.github/
