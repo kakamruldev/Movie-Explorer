@@ -1,6 +1,6 @@
 # GitHub Repository Link
 
- https://github.com/kakamruldev/movie-explorer
+ https://github.com/kakamruldev/Movie-Explorer
 
 
 
