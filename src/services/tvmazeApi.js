@@ -7,7 +7,7 @@ async function request(path, signal) {
 }
 
 export function getShows(signal) { 
-  return request('/shows?page=1', signal); }
+  return request('/shows', signal); }
 
 export async function searchShows(query, signal) {
   const results = await request(`/search/shows?q=${encodeURIComponent(query)}`, signal);
