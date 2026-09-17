@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <header className={`nav ${isMovies ? 'dark' : ''}`}>
       <Link className="logo" to="/">
-        <span className="mark">R</span> reelora
+        <span className="mark">M</span> movieDora
       </Link>
       <nav className="links">
         <Link to="/">Home</Link>
